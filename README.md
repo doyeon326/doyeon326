@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🔭 I'm iOS developer, swift & apple lover⌚️💻📱. I'm also an avid UI/UX enthusiast✨.
-- 💬 I post articles about iOS on [Medium](https://doyeona.medium.com, "doyeona")
-- 📫 reach me at doyeon326@gmail.com
-- 📱 My first app, [EverydayTodo](https://apps.apple.com/kr/app/everydaytodo/id1549451957, "EverydayTodo") is available at Appstore. 
+- 🔭  I'm iOS developer, swift & apple lover⌚️💻📱. I'm also an avid UI/UX enthusiast✨.
+- 💬  I post articles about iOS on [Medium](https://doyeona.medium.com, "doyeona")
+- 📫  reach me at doyeon326@gmail.com
+- 📱  My first app, [EverydayTodo](https://apps.apple.com/kr/app/everydaytodo/id1549451957, "EverydayTodo") is available at Appstore. 
 <!--
 **doyeon326/doyeon326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
