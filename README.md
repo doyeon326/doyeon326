@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭  I'm iOS developer, swift & apple lover⌚️💻📱. I'm also an avid UI/UX enthusiast✨.
-- 💬  I post articles about iOS on [Medium](https://www.doyeona.medium.com, "doyeona")
+- 💬  I post articles about iOS on [Medium](https://medium.com/doyeona)[heeee](https://doyeona.medium.com)
 - 📫  reach me at doyeon326@gmail.com
 - 📱  My first app, [EverydayTodo](https://apps.apple.com/kr/app/everydaytodo/id1549451957, "EverydayTodo") is available at Appstore. 
 <!--
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->[MyMedium](https://medium.com/doyeona/simple-todo-app-everydaytodo-in-swift-de538a60a142 )
